@@ -1,11 +1,21 @@
-# Installation
-### Node.js 18.14.0 or newer is required.
+<h2>Installation</h2>
 
-#### npm install discord.js
+<h4>Node.js 18.14.0 or newer is required.</h4>
 
-#### npm install dotenv
+<h4>npm install discord.js</h4>
 
-# He can help you
+<h4>npm install dotenv</h4>
+
+<hr>
+
+<h2>Information</h2>
+
+<h4> https://discord.js.org/#/</h4>
+<h4> https://discordjs.guide/#before-you-begin</h4>
+
+<hr>
+
+<h2>He can help you</h2>
 
 👇👇👇👇👇👇👇👇
 
@@ -25,6 +35,8 @@ module.exports = {
 };
 ```
 
+<hr>
+
 ![flag-romania_1f1f7-1f1f4](https://user-images.githubusercontent.com/124462134/216839474-ee044123-2a90-4e6c-8d4b-04c1dc436d7f.png)
 
 Definiția unei comenzi slash trebuie să aibă un nume și o descriere. Numele comenzilor Slash trebuie să fie cuprinse între 1-32 de caractere și să nu conțină litere majuscule, spații sau simboluri, altele decât - și _. Folosind constructorul, un simplu ping definiția comenzii ar arăta astfel
@@ -40,9 +52,6 @@ module.exports = {
 	},
 };
 ```
-
-
-
 
 
 
